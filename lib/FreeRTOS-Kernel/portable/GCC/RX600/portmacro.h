@@ -25,7 +25,7 @@
  * https://github.com/FreeRTOS
  *
  */
-
+#include <stdint.h>
 
 #ifndef PORTMACRO_H
 #define PORTMACRO_H
