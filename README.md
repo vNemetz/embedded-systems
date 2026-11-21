@@ -30,11 +30,11 @@ O projeto utiliza um sistema operacional de tempo real (RTOS) para organizar a e
 
 O desenvolvimento é organizado em branches individuais e uma branch de integração.
 
-- `main`: versão estável do projeto.
-- `integration`: integração das funcionalidades desenvolvidas.
-- `pessoa-1`: desenvolvimento da plataforma e interface gráfica.
-- `pessoa-2`: desenvolvimento dos sensores e controles.
-- `pessoa-3`: desenvolvimento do RTOS e da lógica do jogo.
+- `master`: versão estável do projeto.
+- `integracao`: integração das funcionalidades desenvolvidas.
+- `Vinicius`: desenvolvimento da plataforma e interface gráfica.
+- `Eduardo`: desenvolvimento dos sensores e controles.
+- `Pedro`: desenvolvimento do RTOS e da lógica do jogo.
 
 As funcionalidades devem ser integradas e testadas antes de serem incorporadas à branch `main`.
 
