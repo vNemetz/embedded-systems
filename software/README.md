@@ -1,0 +1,1 @@
+instruções de compilação e execução, a definir após a escolha da plataforma.

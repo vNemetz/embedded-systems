@@ -1,0 +1,35 @@
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+*~
+
+# Logs
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Configurações pessoais de editores
+.vscode/
+.idea/
+
+# Arquivos compilados
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+
+# Diretórios de build
+build/
+dist/
+out/
+
+# Arquivos temporários de testes
+.pytest_cache/
+__pycache__/

@@ -1,0 +1,1 @@
+documentação da montagem física, conexões, alimentação e componentes. A Pessoa 3 poderá complementar essas informações diretamente com o hardware.

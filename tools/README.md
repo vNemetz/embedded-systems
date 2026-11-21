@@ -1,0 +1,1 @@
+descrição dos scripts e ferramentas auxiliares.
